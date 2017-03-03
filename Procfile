@@ -1,1 +1,1 @@
-web:    java main.class
+web:    java main
