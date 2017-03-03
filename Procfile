@@ -1,1 +1,1 @@
-web:    java -jar target/main.jar
+web:    java main.class
