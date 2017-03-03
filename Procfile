@@ -1,1 +1,1 @@
-web:    java main
+web:    java bin/main
